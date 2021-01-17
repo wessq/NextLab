@@ -1,2 +1,2 @@
 # NextLab
-Laboratory Information Management Systems (LIMS)
+Laboratory Information Management System (LIMS)
